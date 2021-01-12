@@ -1,6 +1,7 @@
 ### Hello there, I am Andres Arizala. 
-- 🔭 I’m currently working on ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a Software Developer at Charles Schwab. 
+- 🧠 I enjoy reading about technology, sports and the financial world. 
+- ⚡ In my free time I like to lift weights, run and ride my peloton bike. 
 
 <!--
 **arizala13/arizala13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
