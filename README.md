@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there, I am Andres Arizala. 
+###
+### 🔭 I’m currently working on ...
+###
+### ⚡ Fun fact: ...
 
 <!--
 **arizala13/arizala13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
